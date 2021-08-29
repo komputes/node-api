@@ -23,5 +23,6 @@
   },
   "homepage": "https://github.com/komputes/node-api#readme",
   "dependencies": {
+    "joi": "^17.4.2"
   }
 }
